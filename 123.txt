@@ -1,0 +1,5 @@
+git clone git://dwefwfewef/test.git 
+git add  file    Ìí¼Ó
+git status 
+git commit Ìá½» 
+git push 
